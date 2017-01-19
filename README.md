@@ -1,1 +1,1 @@
-# angular
+# Angularjs Directives example
